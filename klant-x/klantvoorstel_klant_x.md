@@ -128,13 +128,6 @@ De planning hieronder is optie B, met wens 1 en wens 2 parallel: wens 1 is klaar
 
 **Parallel of achter elkaar.** Dit is de parallelle planning: wens 1 en wens 2 lopen naast elkaar en wij zetten daarvoor meerdere mensen tegelijk in. De twee wensen kunnen ook achter elkaar worden geplakt; dan loopt het traject circa 22 weken en werken we met minder mensen tegelijk. Alles daartussenin kan ook. We passen de planning aan op uw capaciteit, budget en gewenste opleverdatum.
 
-**Mijlpalen**
-
-- Einde week 2: de triggerdefinities zijn gevalideerd en het bouwteam kan starten.
-- Einde week 6: het journey data model is opgeleverd, inclusief nulmeting.
-- Einde week 7: wens 1 is compleet.
-- Einde week 15: wens 2 is compleet.
-
 **Wat de planning kan verschuiven**
 
 - De vijf weken per klantonderzoek zijn strak. Ze zijn inclusief werving en veldwerk door het externe bureau, dus dat vraagt een bureau met een panel op de plank en een onderzoeksopzet die vóór week 1 akkoord is. Omdat de opzet nog niet bekend is, kan deze doorlooptijd verschuiven.
