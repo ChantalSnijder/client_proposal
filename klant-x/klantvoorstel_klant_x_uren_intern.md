@@ -3,17 +3,33 @@
 **Niet delen met klant X.** Dit document bevat het uurtarief. Het voorstel communiceert alleen tarieven per module of variant.
 
 **Uurtarief:** €150 (excl. btw)
-**Berekening:** tarief = uren x €150. Projectmanagement is in de uren van elk onderdeel verwerkt; er is geen aparte PM-regel.
+**Berekening:** basis = uren x €150, plus 2,5% projecttoeslag, afgerond op €10. Projectmanagement is in de uren van elk onderdeel verwerkt; er is geen aparte PM-regel.
+**Effectief tarief:** circa €153,75 per uur (€30.750 / 200 uur voor wens 1).
+
+**Waarom niet-ronde bedragen.** De moduleprijzen zijn bewust niet rond. Precieze bedragen worden gelezen als doorgerekend in plaats van geschat, en de tegenpartij past zijn tegenbod minder ver aan (Janiszewski en Uy 2008; Mason e.a. 2013). Bedragen net onder een rond getal, zoals €29.999, doen we juist niet: in premium B2B-dienstverlening leest dat als een koopje en ondermijnt het de geloofwaardigheid. De 2,5% toeslag is de manier om op precieze bedragen uit te komen zonder naar beneden af te ronden, wat een stille korting zou zijn.
+
+**Rekenregel per module**
+
+| Module | Uren | Basis (uren x €150) | Toeslag 2,5% | Moduleprijs |
+|---|---|---|---|---|
+| 1.1 | 40 | €6.000 | €150 | €6.150 |
+| 1.2a | 120 | €18.000 | €450 | €18.450 |
+| 1.2b | 40 | €6.000 | €150 | €6.150 |
+| 2.1 variant A | 112 | €16.800 | €420 | €17.220 |
+| 2.1 variant B | 230 | €34.500 | €860 | €35.360 |
+| 2.2 | 120 | €18.000 | €450 | €18.450 |
+| 2.3 | 100 | €15.000 | €380 | €15.380 |
+| 2.4 | 40 | €6.000 | €150 | €6.150 |
 **Nummering:** [nummer van de wens].[nummer van de module]
 
 ## Wens 1: Campagne-automatisering
 
 | Module | Uren | Tarief |
 |---|---|---|
-| Module 1.1: As-is campagnes en triggerdefinities | 40 | €6.000 |
-| Module 1.2a: Klantonderzoek informatiebehoeften per objecttype (excl. wervingskosten) | 120 | €18.000 |
-| Module 1.2b: Campagnevoorstel met personalisatie op objecttype (alleen samen met 1.2a) | 40 | €6.000 |
-| **Totaal wens 1** | **200** | **€30.000** |
+| Module 1.1: As-is campagnes en triggerdefinities | 40 | €6.150 |
+| Module 1.2a: Klantonderzoek informatiebehoeften per objecttype (excl. wervingskosten) | 120 | €18.450 |
+| Module 1.2b: Campagnevoorstel met personalisatie op objecttype (alleen samen met 1.2a) | 40 | €6.150 |
+| **Totaal wens 1** | **200** | **€30.750** |
 
 Uren module 1.2a: opstellen 35, afnemen en afstemming met het bureau 50, analyseren en rapporteren 35.
 
@@ -21,11 +37,11 @@ Uren module 1.2a: opstellen 35, afnemen en afstemming met het bureau 50, analyse
 
 | Module | Uren variant A (begeleid) | Uren variant B (wij bouwen) | Tarief A | Tarief B |
 |---|---|---|---|---|
-| Module 2.1: Journey data model | 112 | 230 | €16.800 | €34.500 |
-| Module 2.2: Klantonderzoek gaps (excl. wervingskosten) | 120 | 120 | €18.000 | €18.000 |
-| Module 2.3: Knelpunten, kansen, oplossingen en instructies (alleen samen met 2.2) | 100 | 100 | €15.000 | €15.000 |
-| Module 2.4: Conversational Analytics (alleen samen met 2.1) | 40 | 40 | €6.000 | €6.000 |
-| **Totaal wens 2** | **372** | **490** | **€55.800** | **€73.500** |
+| Module 2.1: Journey data model | 112 | 230 | €17.220 | €35.360 |
+| Module 2.2: Klantonderzoek gaps (excl. wervingskosten) | 120 | 120 | €18.450 | €18.450 |
+| Module 2.3: Knelpunten, kansen, oplossingen en instructies (alleen samen met 2.2) | 100 | 100 | €15.380 | €15.380 |
+| Module 2.4: Conversational Analytics (alleen samen met 2.1) | 40 | 40 | €6.150 | €6.150 |
+| **Totaal wens 2** | **372** | **490** | **€57.200** | **€75.340** |
 
 ### Urenopbouw per module
 
@@ -54,9 +70,9 @@ Variant B: uren zijn ontwerp en bouw door onze data engineers, inclusief overdra
 
 | Optie | Uren | Tarief |
 |---|---|---|
-| A: Wens 1 | 200 | €30.000 |
-| B: Wens 1 + wens 2 variant A (2.1 t/m 2.4) | 572 | €85.800 |
-| C: Wens 1 + wens 2 variant B (2.1 t/m 2.4) | 690 | €103.500 |
+| A: Wens 1 | 200 | €30.750 |
+| B: Wens 1 + wens 2 variant A (2.1 t/m 2.4) | 572 | €87.950 |
+| C: Wens 1 + wens 2 variant B (2.1 t/m 2.4) | 690 | €106.090 |
 
 ## Aannames bij de raming
 

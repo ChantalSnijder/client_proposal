@@ -15,7 +15,7 @@ Wij maken de campagnes event-gedreven en de klantreis meetbaar.
 
 Elke module heeft één doel, één outcome en één tarief, en kan worden toegevoegd of weggelaten. Het interne team van klant X bouwt de campagnetool. Onze rol is adviserend en aansturend, of uitvoerend; dat bepaalt de gekozen variant.
 
-> **Ons advies: optie B** - wens 1 volledig plus wens 2 variant A. **€85.800 excl. btw**, circa 15 weken.
+> **Ons advies: optie B** - wens 1 volledig plus wens 2 variant A. **€87.950 excl. btw**, circa 15 weken.
 
 ---
 
@@ -31,14 +31,14 @@ Daarnaast brengen we consumentenonderzoek en customer experience in dezelfde opd
 
 | Module | Doel en outcome | Tarief |
 |---|---|---|
-| **1.1** As-is campagnes en triggerdefinities | De handmatige selectie vervangen door vastgelegde triggerdefinities, vertaald naar specificaties voor het bouwteam. **Outcome:** alle 20 campagnes, inclusief herinneringen, hebben een gevalideerde triggerdefinitie en het bouwteam kan ze bouwen zonder aanvullende uitleg. | €6.000 |
-| **1.2a** Klantonderzoek informatiebehoeften | De informatiebehoeften van consumenten per objecttype vaststellen. **Outcome:** een onderzoeksrapport met een behoeftenprofiel per objecttype. | €18.000 \* |
-| **1.2b** Campagnevoorstel met personalisatie op objecttype | De bestaande campagnes personaliseren op objecttype, op basis van module 1.2a. **Outcome:** een campagnevoorstel waarin is vastgelegd welke stappen, kanalen, timing en CTA per objecttype afwijken, met de bestaande campagnes toegewezen. | €6.000 |
-| **Totaal wens 1** | | **€30.000** |
+| **1.1** As-is campagnes en triggerdefinities | De handmatige selectie vervangen door vastgelegde triggerdefinities, vertaald naar specificaties voor het bouwteam. **Outcome:** alle 20 campagnes, inclusief herinneringen, hebben een gevalideerde triggerdefinitie en het bouwteam kan ze bouwen zonder aanvullende uitleg. | €6.150 |
+| **1.2a** Klantonderzoek informatiebehoeften | De informatiebehoeften van consumenten per objecttype vaststellen. **Outcome:** een onderzoeksrapport met een behoeftenprofiel per objecttype. | €18.450 \* |
+| **1.2b** Campagnevoorstel met personalisatie op objecttype | De bestaande campagnes personaliseren op objecttype, op basis van module 1.2a. **Outcome:** een campagnevoorstel waarin is vastgelegd welke stappen, kanalen, timing en CTA per objecttype afwijken, met de bestaande campagnes toegewezen. | €6.150 |
+| **Totaal wens 1** | | **€30.750** |
 
 **Afhankelijkheden.** Module 1.1 en 1.2a zijn zelfstandig af te nemen. Module 1.2b is alleen af te nemen samen met 1.2a en start na afronding daarvan. Module 1.1 is niet verplicht voor 1.2b, maar maakt het campagnevoorstel direct bouwbaar.
 
-**Deelafname.** Module 1.1 + 1.2a: €24.000. Module 1.2a + 1.2b: €24.000.
+**Deelafname.** Module 1.1 + 1.2a: €24.600. Module 1.2a + 1.2b: €24.600.
 
 **Doorlooptijd:** circa 7 weken (1.1 circa 2 weken, 1.2a circa 5 weken inclusief werving, 1.2b circa 2 weken).
 
@@ -57,11 +57,11 @@ Het journey data model bestaat uit vier lagen - identity, event, journey en sema
 
 | Module | Doel en outcome | Variant A | Variant B |
 |---|---|---|---|
-| **2.1** Journey data model | De klantreis per adres vastleggen in een schaalbaar datamodel, als basis voor geautomatiseerd inzicht en voor AI. **Outcome:** het datamodel is opgeleverd, gereviewd en gedocumenteerd, KPI's en nulmeting zijn goedgekeurd en een proof-of-concept toont de journey-performance voor één objecttype. | €16.800 | €34.500 |
-| **2.2** Klantonderzoek gaps in de journey | Vaststellen waar consumenten in de klantreis vastlopen. **Outcome:** de gaps zijn vastgelegd in een onderzoeksrapport. | €18.000 \* | €18.000 \* |
-| **2.3** Knelpunten, kansen, oplossingen en instructies | Eenmalig de knelpunten, kansen en oplossingen vaststellen. **Outcome:** geprioriteerde knelpunten, kansen en oplossingen, met instructies waarmee het interne team ze doorvoert. | €15.000 | €15.000 |
-| **2.4** Conversational Analytics | AI op het journey data model, zodat medewerkers in gewone taal vragen stellen over de journeys. **Outcome:** een permanente voorziening met dashboard of intuïtieve interface, getest op antwoordkwaliteit, met de werkwijze en het beheer overgedragen. | €6.000 | €6.000 |
-| **Totaal wens 2** | | **€55.800** | **€73.500** |
+| **2.1** Journey data model | De klantreis per adres vastleggen in een schaalbaar datamodel, als basis voor geautomatiseerd inzicht en voor AI. **Outcome:** het datamodel is opgeleverd, gereviewd en gedocumenteerd, KPI's en nulmeting zijn goedgekeurd en een proof-of-concept toont de journey-performance voor één objecttype. | €17.220 | €35.360 |
+| **2.2** Klantonderzoek gaps in de journey | Vaststellen waar consumenten in de klantreis vastlopen. **Outcome:** de gaps zijn vastgelegd in een onderzoeksrapport. | €18.450 \* | €18.450 \* |
+| **2.3** Knelpunten, kansen, oplossingen en instructies | Eenmalig de knelpunten, kansen en oplossingen vaststellen. **Outcome:** geprioriteerde knelpunten, kansen en oplossingen, met instructies waarmee het interne team ze doorvoert. | €15.380 | €15.380 |
+| **2.4** Conversational Analytics | AI op het journey data model, zodat medewerkers in gewone taal vragen stellen over de journeys. **Outcome:** een permanente voorziening met dashboard of intuïtieve interface, getest op antwoordkwaliteit, met de werkwijze en het beheer overgedragen. | €6.150 | €6.150 |
+| **Totaal wens 2** | | **€57.200** | **€75.340** |
 
 **Afhankelijkheden.** Module 2.1 is zelfstandig af te nemen en is de basis. Module 2.2, 2.3 en 2.4 starten na afronding van module 2.1.
 
@@ -106,20 +106,12 @@ Bij wens 2 hoort een visualisatie van de klantreis, in hoofdlijnen en vanuit het
 
 ## 7. Opties
 
-Wat de investering moet opleveren: minder handmatig werk, hogere conversie per adres en een klantreis die u kunt sturen. Afgezet tegen de circa 150.000 adressen waarmee u in 2027 communiceert, komt optie B neer op circa € 0,57 per adres.
-
 
 | Optie | Samenstelling | Tarief (excl. btw) | Doorlooptijd |
 |---|---|---|---|
-| A | Wens 1 volledig | €30.000 | circa 7 weken |
-| **B (aanbevolen)** | **Wens 1 volledig + wens 2 variant A** | **€85.800** | **circa 15 weken** |
-| C | Wens 1 volledig + wens 2 variant B | €103.500 | circa 13 weken |
-
-**Wat elke stap u extra oplevert**
-
-- **Optie A, € 30.000.** Haalt het handwerk uit de campagnes. U ziet resultaat op campagneniveau, maar niet waar in de klantreis de conversie wegvalt.
-- **Optie B, € 55.800 meer dan A.** Maakt die klantreis meetbaar en stuurbaar, houdt kennis en eigenaarschap in huis en laat AI de optimalisatie versnellen.
-- **Optie C, € 17.700 meer dan B.** Onze data engineers nemen de bouw van het journey data model uit handen. Dat scheelt uw team capaciteit en kort de doorlooptijd in van 15 naar 13 weken.
+| A | Wens 1 volledig | €30.750 | circa 7 weken |
+| **B (aanbevolen)** | **Wens 1 volledig + wens 2 variant A** | **€87.950** | **circa 15 weken** |
+| C | Wens 1 volledig + wens 2 variant B | €106.090 | circa 13 weken |
 
 **Waarom optie B?** Klant X wil zelf inhouse bouwen. In variant A blijven de kennis en het eigenaarschap bij klant X en is de investering lager dan in variant B. Wens 1 levert direct waarde; wens 2 maakt die waarde meetbaar en stuurbaar. Let op: het interne team moet capaciteit hebben om module 2.1 te bouwen - die capaciteit bepaalt de doorlooptijd.
 
