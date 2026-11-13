@@ -130,8 +130,7 @@ De planning hieronder is optie B, met wens 1 en wens 2 parallel: wens 1 is klaar
 
 **Wat de planning kan verschuiven**
 
-- De vijf weken per klantonderzoek zijn strak. Ze zijn inclusief werving en veldwerk door het externe bureau, dus dat vraagt een bureau met een panel op de plank en een onderzoeksopzet die vóór week 1 akkoord is. Omdat de opzet nog niet bekend is, kan deze doorlooptijd verschuiven.
-- In variant B bouwen onze data engineers module 2.1 in circa 4 weken, waardoor wens 2 op circa 13 weken uitkomt.
+- De vijf weken per klantonderzoek zijn inclusief werving en veldwerk door het externe bureau, dus dat vraagt een bureau met een panel op de plank. Dit geeft afhankelijkheden en omdat de opzet nog niet bekend is, kan deze doorlooptijd verschuiven.
 - De beschikbaarheid van de selectiemedewerkers, het development team en de stakeholders bepaalt of week 1–2, week 1–6 en week 12–15 haalbaar zijn.
 
 ---
