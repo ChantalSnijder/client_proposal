@@ -152,7 +152,7 @@ Elke module heeft één doel, één outcome en één tarief.
 - *Werkzaamheden:*
   - Technische verkenning, beperkt tot de aanvulling op de Databricks-omgeving die onze collega's eerder hebben ingericht, en de beschikbaarheid van websitedata en calldata
   - Identity layer: koppeling van bronnen via ID's (adres- en objectsleutel, contactsleutel, toestemmingssleutel) en de koppelregels
-  - Event layer: verzamelen van de datapunten uit de bronnen in één dataset of omgeving, conform de eventcatalogus uit wens 1
+  - Event layer: verzamelen van de datapunten uit de bronnen in één dataset of omgeving
   - Journey layer: groeperen van events tot journeys per adres, met de business ruling die bepaalt in welke journey een klant zit, per objecttype
   - Semantic layer: definities van data, KPI's en metrics, zodat dashboards en AI dezelfde betekenis gebruiken, en de nulmeting van conversie en tevredenheid
   - Proof-of-concept van de journey-performance voor één objecttype
@@ -220,7 +220,7 @@ De variant bepaalt wie de journey data model-lagen in module 2.1 bouwt. Module 2
 
 Ter visualisatie van de aanpak van wens 2 is een eerste journey map gemaakt van de klantreis van glasvezelaanleg: van toestemming geven, via schouw en HAS-aansluiting, tot het kiezen van een provider met glasvezelabonnement. Per fase staan de touchpoints, acties, gedachten, behoeften, pijnpunten en kansen voor de campagne. Zie `klant_x_journey_map.pdf`.
 
-- De map is een hypothese op basis van het proces. Behoeften, pijnpunten en gedachten worden getoetst in module 2.2 en definitief gemaakt in module 2.3.
+- De map is volledig hypothetisch. Ook het organisatieproces van klant X is bij ons onbekend. Fases, behoeften, pijnpunten en gedachten worden getoetst in module 2.2 en definitief gemaakt in module 2.3.
 - De stemmingscurve is een hypothese per stap en geen gemeten waarde.
 
 **Voordelen van een journey map voor campagnes en conversie**
