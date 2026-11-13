@@ -143,8 +143,6 @@ De planning hieronder is optie B, met wens 1 en wens 2 parallel: wens 1 is klaar
 - **Beschikbaarheid** van stakeholders voor de journey map-sessies en brainstorms in module 2.3: circa [X] sessies van [X] uur.
 - **Overeenkomende ID's in de bronnen.** We gaan ervan uit dat de bronnen die we meenemen in het journey data model een overeenkomende ID gebruiken, zodat de identity layer snel is in te richten. Moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost die laag aanzienlijk meer tijd. We bevestigen dit in de technische verkenning van module 2.1; een afwijking loopt via een change request.
 - **Eén opdrachtgever** met mandaat over triggerdefinities, business rulings, de vragen voor Conversational Analytics en scope.
-- **Akkoord op de onderzoeksopzet** voor de klantonderzoeken (1.2a en 2.2), inclusief juridische basis en privacy-inrichting, vóór de start. Het verwerkersakkoord met het bureau wordt vóór de start afgesloten.
-- **Besluit** over dit voorstel vóór [datum], zodat de planning kan starten. Scope-wijzigingen lopen via een change request, met impact op tarief en doorlooptijd.
 
 ---
 
