@@ -1,4 +1,4 @@
-# Voorstel: Campagne-automatisering en Journey Insight voor klant X
+# Voorstel: Campagne-automatisering en Insight-driven optimisation voor klant X
 
 **Klant:** Klant X (glasvezelaanleg)
 **Opgesteld door:** Digital Power, Customer Experience
@@ -14,7 +14,7 @@ Klant X communiceert in 2027 naar verwachting met ongeveer 150.000 adressen. Dit
 Dit voorstel bestaat uit twee wensen. Modules worden genummerd als [nummer van de wens].[nummer van de module]. Een module heeft één doel, één outcome en één tarief.
 
 - **Wens 1: Campagne-automatisering.** Campagnes worden event-gedreven getriggerd, zonder handmatige selectie. Wens 1 bestaat uit drie modules: module 1.1 (triggerdefinities en vertaling naar het bouwteam), module 1.2a (klantonderzoek naar informatiebehoeften per objecttype) en module 1.2b (campagnevoorstel per objecttype).
-- **Wens 2: Journey Insight, van data naar actie.** Het doel is een betere klantreis: hogere tevredenheid bij de consument en hogere conversie, waarbij conversie betekent dat een afspraak wordt gemaakt of een toestemming wordt gegeven. Het journey data model is het middel. Het automatiseert de inzichten over de journeys en sluit AI aan, zodat optimalisatie wordt versneld. Wens 2 bestaat uit vier modules: module 2.1 (journey data model), module 2.2 (klantonderzoek naar gaps in de journey), module 2.3 (knelpunten, kansen, oplossingen en instructies) en module 2.4 (Conversational Analytics).
+- **Wens 2: Insight-driven optimisation: van data naar actie.** Het doel is een betere klantreis: hogere tevredenheid bij de consument en hogere conversie, waarbij conversie betekent dat een afspraak wordt gemaakt of een toestemming wordt gegeven. Het journey data model is het middel. Het automatiseert de inzichten over de journeys en sluit AI aan, zodat optimalisatie wordt versneld. Wens 2 bestaat uit vier modules: module 2.1 (journey data model), module 2.2 (klantonderzoek naar gaps in de journey), module 2.3 (knelpunten, kansen, oplossingen en instructies) en module 2.4 (Conversational Analytics).
 
 Elke wens heeft een eigen business ruling. Wens 1 bepaalt wanneer een campagne wordt getriggerd. Wens 2 bepaalt hoe events worden gegroepeerd tot een journey en in welke journey een klant zich bevindt. De twee wensen komen samen in de eventcatalogus.
 
@@ -138,7 +138,7 @@ Elke module heeft één doel, één outcome en één tarief.
 
 ---
 
-## 6. Wens 2: Journey Insight, van data naar actie
+## 6. Wens 2: Insight-driven optimisation: van data naar actie
 
 ### 6.1 Doel
 Een betere klantreis, met hogere tevredenheid bij de consument en hogere conversie: afspraken en toestemmingen. Het journey data model is het middel. Het automatiseert de inzichten over de journeys en sluit AI aan, zodat de optimalisatie van de journey wordt versneld. Doordat het datamodel de context van de journey vastlegt, kan AI gerichter inzichten en oplossingskansen leveren.

@@ -17,7 +17,7 @@
 
 Uren module 1.2a: opstellen 35, afnemen en afstemming met het bureau 50, analyseren en rapporteren 35.
 
-## Wens 2: Journey Insight, van data naar actie
+## Wens 2: Insight-driven optimisation: van data naar actie
 
 | Module | Uren variant A (begeleid) | Uren variant B (wij bouwen) | Tarief A | Tarief B |
 |---|---|---|---|---|

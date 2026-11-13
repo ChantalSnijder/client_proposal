@@ -11,7 +11,7 @@ In 2027 communiceert klant X met circa **150.000 adressen** via circa 20 campagn
 Wij maken de campagnes event-gedreven en de klantreis meetbaar.
 
 - **Wens 1 — Campagne-automatisering.** Campagnes worden getriggerd door events, niet door een handmatige selectie.
-- **Wens 2 — Journey Insight, van data naar actie.** Een journey data model legt de klantreis per adres vast; AI versnelt de optimalisatie. Doel: hogere tevredenheid bij de consument en hogere conversie — meer toestemmingen en afspraken.
+- **Wens 2 — Insight-driven optimisation: van data naar actie.** Een journey data model legt de klantreis per adres vast; AI versnelt de optimalisatie. Doel: hogere tevredenheid bij de consument en hogere conversie — meer toestemmingen en afspraken.
 
 Elke module heeft één doel, één outcome en één tarief, en kan worden toegevoegd of weggelaten. Het interne team van klant X bouwt de campagnetool. Onze rol is adviserend en aansturend, of uitvoerend; dat bepaalt de gekozen variant.
 
@@ -48,7 +48,7 @@ Daarnaast brengen we consumentenonderzoek en customer experience in dezelfde opd
 
 ---
 
-## 4. Wens 2: Journey Insight, van data naar actie
+## 4. Wens 2: Insight-driven optimisation: van data naar actie
 
 Het journey data model bestaat uit vier lagen — identity, event, journey en semantic — die samen één aanpak vormen. Klant X kiest één van twee varianten voor de bouw van module 2.1.
 
@@ -63,11 +63,11 @@ Het journey data model bestaat uit vier lagen — identity, event, journey en se
 | **2.4** Conversational Analytics | AI op het journey data model, zodat medewerkers in gewone taal vragen stellen over de journeys. **Outcome:** een permanente voorziening met dashboard of intuïtieve interface, getest op antwoordkwaliteit, met de werkwijze en het beheer overgedragen. | €6.000 | €6.000 |
 | **Totaal wens 2** | | **€55.800** | **€73.500** |
 
-**Afhankelijkheden.** Module 2.1 is zelfstandig af te nemen en is de basis voor 2.4. Module 2.2, 2.3 en 2.4 starten na afronding van module 2.1. Module 2.3 is alleen af te nemen samen met 2.2 en wordt afgerond na 2.2. Module 2.4 is alleen af te nemen samen met 2.1.
+**Afhankelijkheden.** Module 2.1 is zelfstandig af te nemen en is de basis. Module 2.2, 2.3 en 2.4 starten na afronding van module 2.1.
 
 **Aanname bij de identity layer.** De omvang van de identity layer hangt af van de huidige setup. Gebruiken de bronnen een overeenkomende ID, dan is die laag snel klaar; moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost het meer tijd. Het tarief gaat uit van overeenkomende ID's (zie hoofdstuk 9).
 
-**Doorlooptijd:** circa 15 weken (variant A) of circa 13 weken (variant B). De 5 weken voor module 2.2 zijn strak: dat vraagt een bureau met een panel op de plank.
+**Doorlooptijd:** circa 15 weken. De 5 weken voor module 2.2 hebben een afhankelijkheid van het wervingsbureau met een panel op de plank.
 
 \* Excl. wervingskosten van het externe onderzoeksbureau (zie wens 1). De kanttekening bij module 1.2a over de onderzoeksopzet geldt ook voor module 2.2.
 
