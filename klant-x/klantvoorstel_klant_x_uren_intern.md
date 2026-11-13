@@ -12,7 +12,7 @@
 |---|---|---|
 | Module 1.1: As-is campagnes en triggerdefinities | 40 | €6.000 |
 | Module 1.2a: Klantonderzoek informatiebehoeften per objecttype (excl. wervingskosten) | 120 | €18.000 |
-| Module 1.2b: Campagnevoorstel per objecttype (alleen samen met 1.2a) | 40 | €6.000 |
+| Module 1.2b: Campagnevoorstel met personalisatie op objecttype (alleen samen met 1.2a) | 40 | €6.000 |
 | **Totaal wens 1** | **200** | **€30.000** |
 
 Uren module 1.2a: opstellen 35, afnemen en afstemming met het bureau 50, analyseren en rapporteren 35.
@@ -86,7 +86,7 @@ Basis: werkweek van 32 uur per persoon. Inzet in weken = uren / 32.
 |---|---|---|---|---|
 | 1.1 As-is en triggerdefinities | 40 | 1,25 | 2 | Afhankelijk van de beschikbaarheid van de selectiemedewerkers |
 | 1.2a Klantonderzoek informatiebehoeften | 120 | 3,75 | 5 | Teruggebracht naar maximaal 5 weken. Met 3,75 week eigen inzet blijft er circa 1,25 week over voor werving en veldwerk; dat vraagt een bureau met een panel op de plank |
-| 1.2b Campagnevoorstel per objecttype | 40 | 1,25 | 2 | Start na 1.2a |
+| 1.2b Campagnevoorstel met personalisatie op objecttype | 40 | 1,25 | 2 | Start na 1.2a |
 | 2.1 Journey data model, variant A | 112 | 3,5 | 6 | Begeleiding loopt mee met de bouw door het interne team |
 | 2.1 Journey data model, variant B | 230 | 7,2 | 4 | Met 2 data engineers (64 uur per week) |
 | 2.2 Klantonderzoek gaps | 120 | 3,75 | 5 | Idem 1.2a |

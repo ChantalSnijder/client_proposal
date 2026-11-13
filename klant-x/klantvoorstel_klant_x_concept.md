@@ -13,7 +13,7 @@ Klant X communiceert in 2027 naar verwachting met ongeveer 150.000 adressen. Dit
 
 Dit voorstel bestaat uit twee wensen. Modules worden genummerd als [nummer van de wens].[nummer van de module]. Een module heeft één doel, één outcome en één tarief.
 
-- **Wens 1: Campagne-automatisering.** Campagnes worden event-gedreven getriggerd, zonder handmatige selectie. Wens 1 bestaat uit drie modules: module 1.1 (triggerdefinities en vertaling naar het bouwteam), module 1.2a (klantonderzoek naar informatiebehoeften per objecttype) en module 1.2b (campagnevoorstel per objecttype).
+- **Wens 1: Campagne-automatisering.** Campagnes worden event-gedreven getriggerd, zonder handmatige selectie. Wens 1 bestaat uit drie modules: module 1.1 (triggerdefinities en vertaling naar het bouwteam), module 1.2a (klantonderzoek naar informatiebehoeften per objecttype) en module 1.2b (campagnevoorstel met personalisatie op objecttype).
 - **Wens 2: Insight-driven optimisation: van data naar actie.** Het doel is een betere klantreis: hogere tevredenheid bij de consument en hogere conversie, waarbij conversie betekent dat een afspraak wordt gemaakt of een toestemming wordt gegeven. Het journey data model is het middel. Het automatiseert de inzichten over de journeys en sluit AI aan, zodat optimalisatie wordt versneld. Wens 2 bestaat uit vier modules: module 2.1 (journey data model), module 2.2 (klantonderzoek naar gaps in de journey), module 2.3 (knelpunten, kansen, oplossingen en instructies) en module 2.4 (Conversational Analytics).
 
 Elke wens heeft een eigen business ruling. Wens 1 bepaalt wanneer een campagne wordt getriggerd. Wens 2 bepaalt hoe events worden gegroepeerd tot een journey en in welke journey een klant zich bevindt. De twee wensen komen samen in de eventcatalogus.
@@ -69,7 +69,7 @@ Onze rol is adviserend en aansturend, of uitvoerend, afhankelijk van de gekozen 
 ## 5. Wens 1: Campagne-automatisering
 
 ### 5.1 Doel
-Vervang de handmatige selectie en goedkeuring door event-gedreven campagnes. Wens 1 levert de triggerdefinities, het onderzoek naar informatiebehoeften per objecttype en een campagnevoorstel per objecttype. Het interne team bouwt de oplossing.
+Vervang de handmatige selectie en goedkeuring door event-gedreven campagnes. Wens 1 levert de triggerdefinities, het onderzoek naar informatiebehoeften per objecttype en een campagnevoorstel met personalisatie op objecttype. Het interne team bouwt de oplossing.
 
 ### 5.2 Modules
 
@@ -102,13 +102,13 @@ Elke module heeft één doel, één outcome en één tarief.
 - *Randvoorwaarde:* Klant X geeft akkoord op de onderzoeksopzet, inclusief de juridische basis en de privacy-inrichting, vóór de start (zie hoofdstuk 9).
 - *Afhankelijkheden:* geen. Module 1.2a kan zelfstandig worden afgenomen.
 
-**Module 1.2b: Campagnevoorstel per objecttype**
-- *Doel:* De huidige campagnes splitsen per objecttype, op basis van de informatiebehoeften uit module 1.2a.
+**Module 1.2b: Campagnevoorstel met personalisatie op objecttype**
+- *Doel:* De huidige campagnes personaliseren op objecttype, op basis van de informatiebehoeften uit module 1.2a. Het blijft een campagnevoorstel; het aantal objecttypes is nog niet bekend en bepaalt niet het aantal voorstellen.
 - *Werkzaamheden:*
   - Toewijzen van de bestaande campagnes aan de objecttypes
-  - Per objecttype een voorstel voor de campagnestructuur: stappen, kanalen, timing en CTA
+  - Vastleggen welke stappen, kanalen, timing en CTA per objecttype afwijken
   - Herinneringen en escalatie binnen het project, om overbelasting van een adres te voorkomen
-- *Outcome:* Per objecttype is een campagnevoorstel opgesteld en de bestaande campagnes zijn aan de objecttypes toegewezen.
+- *Outcome:* Er ligt een campagnevoorstel met de personalisatie per objecttype uitgewerkt, en de bestaande campagnes zijn aan de objecttypes toegewezen.
 - *Tarief:* **€6.000** (excl. btw)
 - *Afhankelijkheden:* Module 1.2b is alleen af te nemen samen met module 1.2a, omdat het campagnevoorstel is gebaseerd op het klantonderzoek. Module 1.1 is niet verplicht, maar de triggerdefinities uit module 1.1 maken het voorstel direct bouwbaar.
 - *Let op:* Het campagnevoorstel is gebaseerd op het klantonderzoek uit module 1.2a en is nog niet gevalideerd met consumenten. Die validatie valt buiten deze module en kan als vervolgstap worden toegevoegd.
@@ -129,7 +129,7 @@ Elke module heeft één doel, één outcome en één tarief.
 ### 5.4 Deliverables
 - Triggerdefinities per campagne, met beslistabellen en functionele specificaties (module 1.1)
 - Onderzoeksrapport met behoeftenprofiel per objecttype (module 1.2a)
-- Campagnevoorstel per objecttype, met toewijzing van de bestaande campagnes (module 1.2b)
+- Campagnevoorstel met personalisatie op objecttype, inclusief toewijzing van de bestaande campagnes (module 1.2b)
 
 ### 5.5 Outcome (waarop we afrekenen)
 - Per module de outcome zoals beschreven bij de module
