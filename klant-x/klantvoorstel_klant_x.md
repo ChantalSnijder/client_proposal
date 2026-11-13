@@ -15,7 +15,7 @@ Wij maken de campagnes event-gedreven en de klantreis meetbaar.
 
 Elke module heeft één doel, één outcome en één tarief, en kan worden toegevoegd of weggelaten. Het interne team van klant X bouwt de campagnetool. Onze rol is adviserend en aansturend, of uitvoerend; dat bepaalt de gekozen variant.
 
-> **Ons advies: optie B** — wens 1 volledig plus wens 2 variant A. **€81.150 excl. btw**, circa 18 weken.
+> **Ons advies: optie B** — wens 1 volledig plus wens 2 variant A. **€85.800 excl. btw**, circa 18 weken.
 
 ---
 
@@ -32,17 +32,20 @@ Daarnaast brengen we consumentenonderzoek en customer experience in dezelfde opd
 | Module | Doel en outcome | Tarief |
 |---|---|---|
 | **1.1** As-is campagnes en triggerdefinities | De handmatige selectie vervangen door vastgelegde triggerdefinities, vertaald naar specificaties voor het bouwteam. **Outcome:** alle 20 campagnes, inclusief herinneringen, hebben een gevalideerde triggerdefinitie en het bouwteam kan ze bouwen zonder aanvullende uitleg. | €6.000 |
-| **1.2a** Klantonderzoek informatiebehoeften | De informatiebehoeften van consumenten per objecttype vaststellen. **Outcome:** een onderzoeksrapport met een behoeftenprofiel per objecttype. | €15.000 \* |
+| **1.2a** Klantonderzoek informatiebehoeften | De informatiebehoeften van consumenten per objecttype vaststellen. **Outcome:** een onderzoeksrapport met een behoeftenprofiel per objecttype. | €18.000 \* |
 | **1.2b** Campagnevoorstel per objecttype | De bestaande campagnes splitsen per objecttype, op basis van module 1.2a. **Outcome:** per objecttype een campagnevoorstel, met de bestaande campagnes toegewezen. | €6.000 |
-| **Totaal wens 1** | | **€27.000** |
+| **Totaal wens 1** | | **€30.000** |
 
 **Afhankelijkheden.** Module 1.1 en 1.2a zijn zelfstandig af te nemen. Module 1.2b is alleen af te nemen samen met 1.2a en start na afronding daarvan. Module 1.1 is niet verplicht voor 1.2b, maar maakt het campagnevoorstel direct bouwbaar.
 
-**Deelafname.** Module 1.1 + 1.2a: €21.000. Module 1.2a + 1.2b: €21.000.
+**Deelafname.** Module 1.1 + 1.2a: €24.000. Module 1.2a + 1.2b: €24.000.
 
 **Doorlooptijd:** circa 10 weken (1.1 circa 1 week, 1.2a circa 8 weken inclusief werving, 1.2b circa 1 à 2 weken).
 
 \* Excl. wervingskosten van het externe onderzoeksbureau. Digital Power selecteert het bureau, tenzij klant X dit zelf wil, en levert een voorstel voor de wervingskosten. Die kosten draagt klant X.
+
+> **Let op bij de klantonderzoeken.** Het tarief van module 1.2a en module 2.2 is een grove inschatting. De onderzoeksopzet is nog niet bekend, en de methode maakt veel uit: interviews en surveys verschillen sterk in doorlooptijd en in de manier van afnemen. Een combinatie van methoden is vaak een goede oplossing, maar dat stellen we pas definitief vast als de onderzoeksopzet er ligt. Tarief en doorlooptijd van deze twee modules bevestigen we bij het akkoord op de onderzoeksopzet; een afwijking loopt via een change request.
+
 
 ---
 
@@ -55,17 +58,19 @@ Het journey data model bestaat uit vier lagen — identity, event, journey en se
 
 | Module | Doel en outcome | Variant A | Variant B |
 |---|---|---|---|
-| **2.1** Journey data model | De klantreis per adres vastleggen in een schaalbaar datamodel, als basis voor geautomatiseerd inzicht en voor AI. **Outcome:** het datamodel is opgeleverd, gereviewd en gedocumenteerd, KPI's en nulmeting zijn goedgekeurd en een proof-of-concept toont de journey-performance voor één objecttype. | €18.150 | €41.100 |
-| **2.2** Klantonderzoek gaps in de journey | Vaststellen waar consumenten in de klantreis vastlopen. **Outcome:** de gaps zijn vastgelegd in een onderzoeksrapport. | €15.000 \* | €15.000 \* |
+| **2.1** Journey data model | De klantreis per adres vastleggen in een schaalbaar datamodel, als basis voor geautomatiseerd inzicht en voor AI. **Outcome:** het datamodel is opgeleverd, gereviewd en gedocumenteerd, KPI's en nulmeting zijn goedgekeurd en een proof-of-concept toont de journey-performance voor één objecttype. | €16.800 | €34.500 |
+| **2.2** Klantonderzoek gaps in de journey | Vaststellen waar consumenten in de klantreis vastlopen. **Outcome:** de gaps zijn vastgelegd in een onderzoeksrapport. | €18.000 \* | €18.000 \* |
 | **2.3** Knelpunten, kansen, oplossingen en instructies | Eenmalig de knelpunten, kansen en oplossingen vaststellen. **Outcome:** geprioriteerde knelpunten, kansen en oplossingen, met instructies waarmee het interne team ze doorvoert. | €15.000 | €15.000 |
 | **2.4** Conversational Analytics | AI op het journey data model, zodat medewerkers in gewone taal vragen stellen over de journeys. **Outcome:** een permanente voorziening met dashboard of intuïtieve interface, getest op antwoordkwaliteit, met de werkwijze en het beheer overgedragen. | €6.000 | €6.000 |
-| **Totaal wens 2** | | **€54.150** | **€77.100** |
+| **Totaal wens 2** | | **€55.800** | **€73.500** |
 
 **Afhankelijkheden.** Module 2.1 is zelfstandig af te nemen en is de basis voor 2.4. Module 2.2, 2.3 en 2.4 starten na afronding van module 2.1. Module 2.3 is alleen af te nemen samen met 2.2 en wordt afgerond na 2.2. Module 2.4 is alleen af te nemen samen met 2.1.
 
+**Aanname bij de identity layer.** De omvang van de identity layer hangt af van de huidige setup. Gebruiken de bronnen een overeenkomende ID, dan is die laag snel klaar; moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost het meer tijd. Het tarief gaat uit van overeenkomende ID's (zie hoofdstuk 8).
+
 **Doorlooptijd:** circa 18 weken (variant A) of circa 14 weken (variant B). Module 2.2 kan langer lopen door de planning en afstemming met het wervingsbureau.
 
-\* Excl. wervingskosten van het externe onderzoeksbureau (zie wens 1).
+\* Excl. wervingskosten van het externe onderzoeksbureau (zie wens 1). De kanttekening bij module 1.2a over de onderzoeksopzet geldt ook voor module 2.2.
 
 ---
 
@@ -104,9 +109,9 @@ Zie `journeymap_klant_x.png` (ook opgenomen als landscape-pagina in `klantvoorst
 
 | Optie | Samenstelling | Tarief (excl. btw) | Doorlooptijd |
 |---|---|---|---|
-| A | Wens 1 volledig | €27.000 | circa 10 weken |
-| **B (aanbevolen)** | **Wens 1 volledig + wens 2 variant A** | **€81.150** | **circa 18 weken** |
-| C | Wens 1 volledig + wens 2 variant B | €104.100 | circa 14 weken |
+| A | Wens 1 volledig | €30.000 | circa 10 weken |
+| **B (aanbevolen)** | **Wens 1 volledig + wens 2 variant A** | **€85.800** | **circa 18 weken** |
+| C | Wens 1 volledig + wens 2 variant B | €103.500 | circa 14 weken |
 
 **Waarom optie B?** Klant X wil zelf inhouse bouwen. In variant A blijven de kennis en het eigenaarschap bij klant X en is de investering lager dan in variant B. Wens 1 levert direct waarde; wens 2 maakt die waarde meetbaar en stuurbaar. Let op: het interne team moet capaciteit hebben om module 2.1 te bouwen — die capaciteit bepaalt de doorlooptijd.
 
@@ -122,6 +127,7 @@ Alle bedragen zijn exclusief btw en exclusief wervingskosten. Tarieven zijn outc
 - **Beschikbaarheid** van de medewerkers die nu selecteren: circa één week voor module 1.1, plus [X] validatiesessies van [X] uur.
 - **Beschikbaarheid** van het development team: [X] uur per week tijdens module 2.1 in variant A. In variant B beperkt tot beoordeling en overname.
 - **Beschikbaarheid** van stakeholders voor de journey map-sessies en brainstorms in module 2.3: circa [X] sessies van [X] uur.
+- **Overeenkomende ID's in de bronnen.** We gaan ervan uit dat de bronnen die we meenemen in het journey data model een overeenkomende ID gebruiken, zodat de identity layer snel is in te richten. Moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost die laag aanzienlijk meer tijd. We bevestigen dit in de technische verkenning van module 2.1; een afwijking loopt via een change request.
 - **Eén opdrachtgever** met mandaat over triggerdefinities, business rulings, de vragen voor Conversational Analytics en scope.
 - **Akkoord op de onderzoeksopzet** voor de klantonderzoeken (1.2a en 2.2), inclusief juridische basis en privacy-inrichting, vóór de start. Het verwerkersakkoord met het bureau wordt vóór de start afgesloten.
 - **Besluit** over dit voorstel vóór [datum], zodat de planning kan starten. Scope-wijzigingen lopen via een change request, met impact op tarief en doorlooptijd.
@@ -148,6 +154,7 @@ Alle bedragen zijn exclusief btw en exclusief wervingskosten. Tarieven zijn outc
 | Beschikbaarheid van het interne development team (variant A) of van de selectiemedewerkers | Vastgestelde capaciteit als randvoorwaarde, planning in overleg |
 | Hoeveelheid website- en calldata is nog onbekend | Vaststellen in module 2.1; bij beperkte beschikbaarheid scope-aanpassing via change request |
 | Kwaliteit van adres- en objectdata | Kwaliteitscheck in de identity layer van module 2.1 |
+| Bronnen gebruiken geen overeenkomende ID, zodat ID's eerst moeten worden afgevangen | Aanname vastgelegd als randvoorwaarde en bevestigd in de technische verkenning van module 2.1; bij afwijking een change request op de identity layer |
 
 ---
 
