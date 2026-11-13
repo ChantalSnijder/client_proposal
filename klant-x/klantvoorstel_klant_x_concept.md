@@ -124,7 +124,7 @@ Elke module heeft één doel, één outcome en één tarief.
 | **Alle drie modules (wens 1 volledig, excl. wervingskosten)** | **€30.000** |
 
 - Module 1.2b is alleen af te nemen samen met module 1.2a.
-- **Doorlooptijd wens 1 (alle modules):** circa 10 weken. Module 1.1 duurt naar verwachting één week, mits de medewerkers beschikbaar zijn. Module 1.2a duurt circa 8 weken, inclusief werving. Module 1.2b start na afronding van module 1.2a en duurt circa 1 à 2 weken.
+- **Doorlooptijd wens 1 (alle modules):** circa 7 weken. Module 1.1 duurt circa 2 weken, mits de medewerkers beschikbaar zijn. Module 1.2a duurt circa 5 weken, inclusief werving; dat is strak en vraagt een bureau met een panel op de plank. Module 1.2b start na afronding van module 1.2a en duurt circa 2 weken.
 
 ### 5.4 Deliverables
 - Triggerdefinities per campagne, met beslistabellen en functionele specificaties (module 1.1)
@@ -240,7 +240,7 @@ Ter visualisatie van de aanpak van wens 2 is een eerste journey map gemaakt van 
 | 2.4 Conversational Analytics | €6.000 | €6.000 |
 | **Totaal wens 2** | **€55.800** | **€73.500** |
 
-- **Doorlooptijd wens 2:** circa 18 weken in variant A en circa 16 weken in variant B. Module 2.2, 2.3 en 2.4 starten na afronding van module 2.1. Module 2.2 kan langer duren door afstemming met het wervingsbureau en de planning van de werving. Module 2.3 wordt afgerond na module 2.2.
+- **Doorlooptijd wens 2:** circa 15 weken in variant A en circa 13 weken in variant B. Module 2.2, 2.3 en 2.4 starten na afronding van module 2.1. Module 2.2 kan langer duren door afstemming met het wervingsbureau en de planning van de werving. Module 2.3 wordt afgerond na module 2.2.
 
 ---
 
@@ -315,11 +315,11 @@ Het volgende maakt geen onderdeel uit van dit voorstel:
 
 | Onderdeel | Tarief (excl. btw) | Doorlooptijd |
 |---|---|---|
-| Wens 1: Campagne-automatisering (modules 1.1, 1.2a, 1.2b) | €30.000 | circa 10 weken |
-| Wens 2 variant A: begeleid bouwen (modules 2.1 t/m 2.4) | €55.800 | circa 18 weken |
-| Wens 2 variant B: wij bouwen (modules 2.1 t/m 2.4) | €73.500 | circa 16 weken |
-| **Optie B (wens 1 + wens 2 variant A)** | **€85.800** | circa 18 weken |
-| **Optie C (wens 1 + wens 2 variant B)** | **€103.500** | circa 16 weken |
+| Wens 1: Campagne-automatisering (modules 1.1, 1.2a, 1.2b) | €30.000 | circa 7 weken |
+| Wens 2 variant A: begeleid bouwen (modules 2.1 t/m 2.4) | €55.800 | circa 15 weken |
+| Wens 2 variant B: wij bouwen (modules 2.1 t/m 2.4) | €73.500 | circa 13 weken |
+| **Optie B (wens 1 + wens 2 variant A)** | **€85.800** | circa 15 weken |
+| **Optie C (wens 1 + wens 2 variant B)** | **€103.500** | circa 13 weken |
 
 - Alle bedragen zijn excl. btw en excl. wervingskosten van het externe onderzoeksbureau (modules 1.2a en 2.2). Die kosten worden apart begroot.
 - Tarieven zijn outcome-gebaseerd: de vaste prijs geldt voor het beschreven resultaat per module of variant.
