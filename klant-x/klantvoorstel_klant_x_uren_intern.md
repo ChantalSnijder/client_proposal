@@ -70,8 +70,42 @@ Variant B: uren zijn ontwerp en bouw door onze data engineers, inclusief overdra
 - Discovery is teruggebracht naar 8 uur, omdat onze collega's de Databricks-omgeving al eerder hebben ingericht. Dit moet bij de start worden bevestigd; websitedata en calldata moeten nog wel worden gecontroleerd.
 - De identity layer is in beide varianten teruggebracht naar 16 uur. De omvang hangt volledig af van de huidige setup: gebruiken de bronnen een overeenkomende ID, dan is de laag snel klaar; moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost het aanzienlijk meer. We gaan er nu vanuit dat de bronnen die we meenemen in het journey data model overeenkomende ID's gebruiken. Dit staat als randvoorwaarde in het voorstel en wordt in de technische verkenning van module 2.1 bevestigd; een afwijking loopt via een change request.
 - Module 2.4 (40 uur) bevat ook het dashboard of de intuïtieve gebruikersinterface. Licentie- en gebruikskosten van de AI-omgeving en beheer na oplevering zitten niet in de raming.
-- Doorlooptijden zijn schattingen: wens 1 circa 10 weken, wens 2 variant A circa 18 weken, variant B circa 14 weken.
+- Doorlooptijden zijn schattingen: wens 1 circa 10 weken, wens 2 variant A circa 18 weken, variant B circa 16 weken (zie de tijdlijnberekening hieronder).
 - Modules 2.2, 2.3 en 2.4 starten na afronding van module 2.1. Doorlooptijd wens 2 blijft gelijk: de bouw bepaalt de duur, en de variant bepaalt wie bouwt en de beschikbaarheid van developers.
 - Module 2.2 blijft 100 uur, maar loopt over een langere periode door afstemming met het wervingsbureau en de planning. Module 2.3 wordt afgerond na module 2.2.
 - Uren zijn exclusief btw.
 - Bij de klantonderzoeken is het akkoord op de onderzoeksopzet, inclusief juridische basis en privacy-inrichting, een randvoorwaarde van klant X. Digital Power levert het wervingsvoorstel en het verwerkersakkoord wordt vóór de start afgesloten.
+
+## Tijdlijn: onderbouwing (intern)
+
+**Niet delen met klant X.** Het klantvoorstel toont alleen doorlooptijd in weken. Uren en de 32-urige werkweek staan hier, omdat ze samen met het tarief het uurtarief herleidbaar maken.
+
+Basis: werkweek van 32 uur per persoon. Inzet in weken = uren / 32.
+
+| Module | Uren | Inzet (wk) | Doorlooptijd (wk) | Waarom de doorlooptijd afwijkt |
+|---|---|---|---|---|
+| 1.1 As-is en triggerdefinities | 40 | 1,25 | 2 | Afhankelijk van de beschikbaarheid van de selectiemedewerkers |
+| 1.2a Klantonderzoek informatiebehoeften | 120 | 3,75 | 8 | Werving en veldwerk door het externe bureau bepalen de doorlooptijd |
+| 1.2b Campagnevoorstel per objecttype | 40 | 1,25 | 2 | Start na 1.2a |
+| 2.1 Journey data model, variant A | 112 | 3,5 | 6 | Begeleiding loopt mee met de bouw door het interne team |
+| 2.1 Journey data model, variant B | 230 | 7,2 | 4 | Met 2 data engineers (64 uur per week) |
+| 2.2 Klantonderzoek gaps | 120 | 3,75 | 8 | Idem 1.2a |
+| 2.3 Knelpunten, kansen, oplossingen | 100 | 3,1 | 4 | Inplannen van de sessies met stakeholders |
+| 2.4 Conversational Analytics | 40 | 1,25 | 2 | Start na 2.1 |
+
+**Parallelle planning optie B (getoond in het voorstel)**
+
+| Module | Weken |
+|---|---|
+| 1.1 | 1–2 |
+| 1.2a | 1–8 |
+| 1.2b | 9–10 |
+| 2.1 (variant A) | 1–6 |
+| 2.4 | 7–8 |
+| 2.2 | 7–14 |
+| 2.3 | 15–18 |
+
+- Totaal optie B: 572 uur over 18 weken, gemiddeld 32 uur per week, oftewel circa 1 fte gemiddeld. Pieken tot circa 1,5 à 2 fte in week 1–2 en week 7–10, dus daar zetten we twee mensen in.
+- Sequentieel ("aan elkaar geplakt"): wens 1 10 weken + wens 2 18 weken = circa 28 weken, met grotendeels één persoon tegelijk.
+- Optie C (variant B): 2.1 in 4 weken met 2 engineers, dan 2.2 week 5–12, 2.4 week 5–6, 2.3 week 13–16. Wens 2 komt daarmee op 16 weken, niet op de eerder genoemde 14.
+- Alle doorlooptijden zijn indicatief. De grootste onzekerheid zit in de twee klantonderzoeken, omdat de onderzoeksopzet nog niet bekend is.

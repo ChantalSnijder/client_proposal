@@ -66,9 +66,9 @@ Het journey data model bestaat uit vier lagen — identity, event, journey en se
 
 **Afhankelijkheden.** Module 2.1 is zelfstandig af te nemen en is de basis voor 2.4. Module 2.2, 2.3 en 2.4 starten na afronding van module 2.1. Module 2.3 is alleen af te nemen samen met 2.2 en wordt afgerond na 2.2. Module 2.4 is alleen af te nemen samen met 2.1.
 
-**Aanname bij de identity layer.** De omvang van de identity layer hangt af van de huidige setup. Gebruiken de bronnen een overeenkomende ID, dan is die laag snel klaar; moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost het meer tijd. Het tarief gaat uit van overeenkomende ID's (zie hoofdstuk 8).
+**Aanname bij de identity layer.** De omvang van de identity layer hangt af van de huidige setup. Gebruiken de bronnen een overeenkomende ID, dan is die laag snel klaar; moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost het meer tijd. Het tarief gaat uit van overeenkomende ID's (zie hoofdstuk 9).
 
-**Doorlooptijd:** circa 18 weken (variant A) of circa 14 weken (variant B). Module 2.2 kan langer lopen door de planning en afstemming met het wervingsbureau.
+**Doorlooptijd:** circa 18 weken (variant A) of circa 16 weken (variant B). Module 2.2 kan langer lopen door de planning en afstemming met het wervingsbureau.
 
 \* Excl. wervingskosten van het externe onderzoeksbureau (zie wens 1). De kanttekening bij module 1.2a over de onderzoeksopzet geldt ook voor module 2.2.
 
@@ -78,7 +78,7 @@ Het journey data model bestaat uit vier lagen — identity, event, journey en se
 
 Bij wens 2 hoort een visualisatie van de klantreis, in hoofdlijnen en vanuit het perspectief van de consument: van toestemming geven, via het inplannen van de schouw, de schouw zelf, het inplannen van de HAS-aansluiting en de HAS-aansluiting, tot het kiezen van een provider met glasvezelabonnement. Per fase staan de gedachten, behoeften, pijnpunten, acties, touchpoints en de kansen om de campagne te optimaliseren.
 
-Zie `journeymap_klant_x.png` (ook opgenomen als landscape-pagina in `klantvoorstel_klant_x.docx`).
+![Journey map: de klantreis van glasvezelaanleg](journeymap_klant_x.png)
 
 > **Let op: deze journey map is volledig hypothetisch.** Hij laat zien hoe een journey map eruitziet en wat je ermee kunt. Ook het proces van klant X is bij ons nog niet bekend. De fases, gedachten, behoeften, pijnpunten, acties, touchpoints, kansen en de stemmingscurve zijn dus aannames, geen vastgestelde of gemeten werkelijkheid. We toetsen ze met consumenten in module 2.2 en maken de map definitief in module 2.3, samen met klant X en de stakeholders.
 
@@ -111,7 +111,7 @@ Zie `journeymap_klant_x.png` (ook opgenomen als landscape-pagina in `klantvoorst
 |---|---|---|---|
 | A | Wens 1 volledig | €30.000 | circa 10 weken |
 | **B (aanbevolen)** | **Wens 1 volledig + wens 2 variant A** | **€85.800** | **circa 18 weken** |
-| C | Wens 1 volledig + wens 2 variant B | €103.500 | circa 14 weken |
+| C | Wens 1 volledig + wens 2 variant B | €103.500 | circa 16 weken |
 
 **Waarom optie B?** Klant X wil zelf inhouse bouwen. In variant A blijven de kennis en het eigenaarschap bij klant X en is de investering lager dan in variant B. Wens 1 levert direct waarde; wens 2 maakt die waarde meetbaar en stuurbaar. Let op: het interne team moet capaciteit hebben om module 2.1 te bouwen — die capaciteit bepaalt de doorlooptijd.
 
@@ -121,7 +121,30 @@ Alle bedragen zijn exclusief btw en exclusief wervingskosten. Tarieven zijn outc
 
 ---
 
-## 8. Wat we van klant X vragen
+## 8. Tijdlijn
+
+De planning hieronder is optie B, met wens 1 en wens 2 parallel. Week 1 is de week na het startgesprek.
+
+![Tijdlijn optie B, wens 1 en wens 2 parallel](tijdlijn_klant_x.png)
+
+**Parallel of achter elkaar.** Dit is de parallelle planning: wens 1 en wens 2 lopen naast elkaar en wij zetten daarvoor meerdere mensen tegelijk in. De twee wensen kunnen ook achter elkaar worden geplakt; dan loopt het traject circa 28 weken en werken we met minder mensen tegelijk. Alles daartussenin kan ook. We passen de planning aan op uw capaciteit, budget en gewenste opleverdatum.
+
+**Mijlpalen**
+
+- Einde week 2: de triggerdefinities zijn gevalideerd en het bouwteam kan starten.
+- Einde week 6: het journey data model is opgeleverd, inclusief nulmeting.
+- Einde week 10: wens 1 is compleet.
+- Einde week 18: wens 2 is compleet.
+
+**Wat de planning kan verschuiven**
+
+- De doorlooptijd van de twee klantonderzoeken wordt bepaald door de werving en het veldwerk van het externe bureau, niet door onze inzet. Omdat de onderzoeksopzet nog niet bekend is, kan die acht weken per onderzoek verschuiven.
+- In variant B bouwen onze data engineers module 2.1 in circa 4 weken, waardoor wens 2 op circa 16 weken uitkomt.
+- De beschikbaarheid van de selectiemedewerkers, het development team en de stakeholders bepaalt of week 1–2, week 1–6 en week 15–18 haalbaar zijn.
+
+---
+
+## 9. Wat we van klant X vragen
 
 - **Toegang** tot de campagnetool, de campagnedata en de campagnedocumentatie, en voor wens 2 tot de Databricks-omgeving (ontwikkel- of testomgeving), de websitedata en de calldata.
 - **Beschikbaarheid** van de medewerkers die nu selecteren: circa één week voor module 1.1, plus [X] validatiesessies van [X] uur.
@@ -134,7 +157,7 @@ Alle bedragen zijn exclusief btw en exclusief wervingskosten. Tarieven zijn outc
 
 ---
 
-## 9. Niet in dit voorstel
+## 10. Niet in dit voorstel
 
 - Wervingskosten van het externe onderzoeksbureau: respondentwerving, incentives en panelkosten (modules 1.2a en 2.2).
 - Juridische beoordeling van de klantonderzoeken en van de bestaande communicatie; die ligt bij klant X.
@@ -146,7 +169,7 @@ Alle bedragen zijn exclusief btw en exclusief wervingskosten. Tarieven zijn outc
 
 ---
 
-## 10. Risico's en hoe we ze beperken
+## 11. Risico's en hoe we ze beperken
 
 | Risico | Beperking |
 |---|---|
@@ -158,7 +181,7 @@ Alle bedragen zijn exclusief btw en exclusief wervingskosten. Tarieven zijn outc
 
 ---
 
-## 11. Volgende stappen
+## 12. Volgende stappen
 
 1. Bespreking van dit voorstel met de contactpersoon van klant X.
 2. Toelichting en onderbouwing voor de manager: opties, modules, varianten en randvoorwaarden.
