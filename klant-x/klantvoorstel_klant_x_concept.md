@@ -213,6 +213,20 @@ De variant bepaalt wie de journey data model-lagen in module 2.1 bouwt. Module 2
 - Klant X beoordeelt en accepteert het resultaat en neemt het over voor beheer.
 - Het interne team hoeft niet mee te bouwen; het beheer en de doorontwikkeling blijven bij klant X.
 
+### 6.3b Visualisatie: journey map van de klant
+
+Ter visualisatie van de aanpak van wens 2 is een eerste journey map gemaakt van de klantreis van glasvezelaanleg: van toestemming geven, via schouw en HAS-aansluiting, tot het kiezen van een provider met glasvezelabonnement. Per fase staan de touchpoints, acties, gedachten, behoeften, pijnpunten en kansen voor de campagne. Zie `klant_x_journey_map.pdf`.
+
+- De map is een hypothese op basis van het proces. Behoeften, pijnpunten en gedachten worden getoetst in module 2.2 en definitief gemaakt in module 2.3.
+- De stemmingscurve is een hypothese per stap en geen gemeten waarde.
+
+**Voordelen van een journey map voor campagnes en conversie**
+- Per stap zie je waar de conversie wegvalt, zodat je gericht optimaliseert.
+- Het juiste bericht past bij de stap waarin de klant zit, niet bij een vaste verzenddatum.
+- Eén beeld van wat een adres al heeft ontvangen voorkomt dubbele of irrelevante berichten.
+- Pijnpunten die nu tot bellen leiden, los je online op.
+- Per stap kun je een kanaal, bericht of timing testen.
+
 ### 6.4 Tarieven en doorlooptijd wens 2
 
 | Module | Variant A (begeleid) | Variant B (wij bouwen) |
