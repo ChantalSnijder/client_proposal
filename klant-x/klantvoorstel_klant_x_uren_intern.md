@@ -3,7 +3,7 @@
 **Niet delen met klant X.** Dit document bevat het uurtarief. Het voorstel communiceert alleen tarieven per module of variant.
 
 **Uurtarief:** €150 (excl. btw)
-**Berekening:** tarief = uren × €150. Projectmanagement is in de uren van elk onderdeel verwerkt; er is geen aparte PM-regel.
+**Berekening:** tarief = uren x €150. Projectmanagement is in de uren van elk onderdeel verwerkt; er is geen aparte PM-regel.
 **Nummering:** [nummer van de wens].[nummer van de module]
 
 ## Wens 1: Campagne-automatisering
@@ -71,10 +71,10 @@ Variant B: uren zijn ontwerp en bouw door onze data engineers, inclusief overdra
 - De identity layer is in beide varianten teruggebracht naar 16 uur. De omvang hangt volledig af van de huidige setup: gebruiken de bronnen een overeenkomende ID, dan is de laag snel klaar; moeten ID's eerst in de bronsystemen worden afgevangen of afgeleid, dan kost het aanzienlijk meer. We gaan er nu vanuit dat de bronnen die we meenemen in het journey data model overeenkomende ID's gebruiken. Dit staat als randvoorwaarde in het voorstel en wordt in de technische verkenning van module 2.1 bevestigd; een afwijking loopt via een change request.
 - Module 2.4 (40 uur) bevat ook het dashboard of de intuïtieve gebruikersinterface. Licentie- en gebruikskosten van de AI-omgeving en beheer na oplevering zitten niet in de raming.
 - Doorlooptijden zijn schattingen: wens 1 circa 7 weken, wens 2 variant A circa 15 weken, variant B circa 13 weken (zie de tijdlijnberekening hieronder).
-- Modules 2.2, 2.3 en 2.4 starten na afronding van module 2.1. Doorlooptijd wens 2 blijft gelijk: de bouw bepaalt de duur, en de variant bepaalt wie bouwt en de beschikbaarheid van developers.
-- Module 2.2 blijft 100 uur, maar loopt over een langere periode door afstemming met het wervingsbureau en de planning. Module 2.3 wordt afgerond na module 2.2.
+- Modules 2.2, 2.3 en 2.4 starten na afronding van module 2.1. De variant bepaalt wie module 2.1 bouwt en daarmee de doorlooptijd van wens 2: 15 weken in variant A, 13 weken in variant B.
+- Module 2.2 staat op 120 uur met een doorlooptijd van 5 weken, inclusief afstemming met het wervingsbureau. Module 2.3 wordt afgerond na module 2.2.
 - Uren zijn exclusief btw.
-- Bij de klantonderzoeken is het akkoord op de onderzoeksopzet, inclusief juridische basis en privacy-inrichting, een randvoorwaarde van klant X. Digital Power levert het wervingsvoorstel en het verwerkersakkoord wordt vóór de start afgesloten.
+- Let op: de randvoorwaarde over het akkoord op de onderzoeksopzet (juridische basis, privacy-inrichting, verwerkersakkoord) staat op verzoek niet meer in het klantvoorstel. Regel dit alsnog vóór de start van module 1.2a en 2.2. Digital Power levert het wervingsvoorstel.
 
 ## Tijdlijn: onderbouwing (intern)
 
@@ -97,15 +97,15 @@ Basis: werkweek van 32 uur per persoon. Inzet in weken = uren / 32.
 
 | Module | Weken |
 |---|---|
-| 1.1 | 1–2 |
-| 1.2a | 1–5 |
-| 1.2b | 6–7 |
-| 2.1 (variant A) | 1–6 |
-| 2.2 | 7–11 |
-| 2.3 | 12–15 |
-| 2.4 | 7–8 |
+| 1.1 | 1-2 |
+| 1.2a | 1-5 |
+| 1.2b | 6-7 |
+| 2.1 (variant A) | 1-6 |
+| 2.2 | 7-11 |
+| 2.3 | 12-15 |
+| 2.4 | 7-8 |
 
-- Totaal optie B: 572 uur over 15 weken, gemiddeld circa 38 uur per week, oftewel circa 1,2 fte gemiddeld. Pieken tot circa 2 fte in week 1–2 en week 7–8, dus daar zetten we twee mensen in.
+- Totaal optie B: 572 uur over 15 weken, gemiddeld circa 38 uur per week, oftewel circa 1,2 fte gemiddeld. Pieken tot circa 2 fte in week 1-2 en week 7-8, dus daar zetten we twee mensen in.
 - Sequentieel ("aan elkaar geplakt"): wens 1 7 weken + wens 2 15 weken = circa 22 weken, met grotendeels één persoon tegelijk.
-- Optie C (variant B): 2.1 in 4 weken met 2 engineers, dan 2.2 week 5–9, 2.4 week 5–6, 2.3 week 10–13. Wens 2 komt daarmee op 13 weken.
+- Optie C (variant B): 2.1 in 4 weken met 2 engineers, dan 2.2 week 5-9, 2.4 week 5-6, 2.3 week 10-13. Wens 2 komt daarmee op 13 weken.
 - Alle doorlooptijden zijn indicatief. De grootste onzekerheid zit in de twee klantonderzoeken: de onderzoeksopzet is nog niet bekend en 5 weken doorlooptijd bij 3,75 week eigen inzet laat weinig ruimte voor werving en veldwerk. Interviews vragen doorgaans meer doorlooptijd dan een survey; toets dit bij het bureau voordat we de planning bevestigen.

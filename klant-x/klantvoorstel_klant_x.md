@@ -10,12 +10,12 @@ In 2027 communiceert klant X met circa **150.000 adressen** via circa 20 campagn
 
 Wij maken de campagnes event-gedreven en de klantreis meetbaar.
 
-- **Wens 1 — Campagne-automatisering.** Campagnes worden getriggerd door events, niet door een handmatige selectie.
-- **Wens 2 — Insight-driven optimisation: van data naar actie.** Een journey data model legt de klantreis per adres vast; AI versnelt de optimalisatie. Doel: hogere tevredenheid bij de consument en hogere conversie — meer toestemmingen en afspraken.
+- **Wens 1 - Campagne-automatisering.** Campagnes worden getriggerd door events, niet door een handmatige selectie.
+- **Wens 2 - Insight-driven optimisation: van data naar actie.** Een journey data model legt de klantreis per adres vast; AI versnelt de optimalisatie. Doel: hogere tevredenheid bij de consument en hogere conversie - meer toestemmingen en afspraken.
 
 Elke module heeft één doel, één outcome en één tarief, en kan worden toegevoegd of weggelaten. Het interne team van klant X bouwt de campagnetool. Onze rol is adviserend en aansturend, of uitvoerend; dat bepaalt de gekozen variant.
 
-> **Ons advies: optie B** — wens 1 volledig plus wens 2 variant A. **€85.800 excl. btw**, circa 15 weken.
+> **Ons advies: optie B** - wens 1 volledig plus wens 2 variant A. **€85.800 excl. btw**, circa 15 weken.
 
 ---
 
@@ -50,7 +50,7 @@ Daarnaast brengen we consumentenonderzoek en customer experience in dezelfde opd
 
 ## 4. Wens 2: Insight-driven optimisation: van data naar actie
 
-Het journey data model bestaat uit vier lagen — identity, event, journey en semantic — die samen één aanpak vormen. Klant X kiest één van twee varianten voor de bouw van module 2.1.
+Het journey data model bestaat uit vier lagen - identity, event, journey en semantic - die samen één aanpak vormen. Klant X kiest één van twee varianten voor de bouw van module 2.1.
 
 - **Variant A: begeleid bouwen.** Wij ontwerpen de architectuur en het datamodel, reviewen en dragen kennis over. Het eigen development team van klant X bouwt.
 - **Variant B: wij bouwen.** Onze data engineers, bekend met de Databricks-omgeving, ontwerpen en bouwen de lagen. Klant X beoordeelt, accepteert en neemt over voor beheer.
@@ -112,7 +112,7 @@ Bij wens 2 hoort een visualisatie van de klantreis, in hoofdlijnen en vanuit het
 | **B (aanbevolen)** | **Wens 1 volledig + wens 2 variant A** | **€85.800** | **circa 15 weken** |
 | C | Wens 1 volledig + wens 2 variant B | €103.500 | circa 13 weken |
 
-**Waarom optie B?** Klant X wil zelf inhouse bouwen. In variant A blijven de kennis en het eigenaarschap bij klant X en is de investering lager dan in variant B. Wens 1 levert direct waarde; wens 2 maakt die waarde meetbaar en stuurbaar. Let op: het interne team moet capaciteit hebben om module 2.1 te bouwen — die capaciteit bepaalt de doorlooptijd.
+**Waarom optie B?** Klant X wil zelf inhouse bouwen. In variant A blijven de kennis en het eigenaarschap bij klant X en is de investering lager dan in variant B. Wens 1 levert direct waarde; wens 2 maakt die waarde meetbaar en stuurbaar. Let op: het interne team moet capaciteit hebben om module 2.1 te bouwen - die capaciteit bepaalt de doorlooptijd.
 
 *Alternatief:* module 2.2 en 2.3 samen vormen een zelfstandig pakket voor het vaststellen van de knelpunten. Module 2.4 vraagt module 2.1.
 
@@ -131,7 +131,7 @@ De planning hieronder is optie B, met wens 1 en wens 2 parallel: wens 1 is klaar
 **Wat de planning kan verschuiven**
 
 - De vijf weken per klantonderzoek zijn inclusief werving en veldwerk door het externe bureau, dus dat vraagt een bureau met een panel op de plank. Dit geeft afhankelijkheden en omdat de opzet nog niet bekend is, kan deze doorlooptijd verschuiven.
-- De beschikbaarheid van de selectiemedewerkers, het development team en de stakeholders bepaalt of week 1–2, week 1–6 en week 12–15 haalbaar zijn.
+- De beschikbaarheid van de selectiemedewerkers, het development team en de stakeholders bepaalt of week 1-2, week 1-6 en week 12-15 haalbaar zijn.
 
 ---
 
@@ -167,12 +167,3 @@ De planning hieronder is optie B, met wens 1 en wens 2 parallel: wens 1 is klaar
 | Hoeveelheid website- en calldata is nog onbekend | Vaststellen in module 2.1; bij beperkte beschikbaarheid scope-aanpassing via change request |
 | Kwaliteit van adres- en objectdata | Kwaliteitscheck in de identity layer van module 2.1 |
 | Bronnen gebruiken geen overeenkomende ID, zodat ID's eerst moeten worden afgevangen | Aanname vastgelegd als randvoorwaarde en bevestigd in de technische verkenning van module 2.1; bij afwijking een change request op de identity layer |
-
----
-
-## 12. Volgende stappen
-
-1. Bespreking van dit voorstel met de contactpersoon van klant X.
-2. Toelichting en onderbouwing voor de manager: opties, modules, varianten en randvoorwaarden.
-3. Besluit over de samenstelling van wens 1 en wens 2, en over optie A, B of C.
-4. Bij akkoord: startgesprek, planning en toegang tot de benodigde omgevingen.
